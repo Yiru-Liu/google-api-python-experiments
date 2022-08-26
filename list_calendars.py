@@ -1,4 +1,3 @@
-from ast import main
 from cal_setup import get_cal_service
 
 
@@ -20,4 +19,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-    
